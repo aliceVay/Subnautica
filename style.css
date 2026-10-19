@@ -1,0 +1,205 @@
+body {
+	font-family: "Russo One", sans-serif;
+	color:white;
+	margin:0;
+	
+}
+header {
+	display:flex;
+	background-color:#457CCF;
+	padding-top:50px;
+	padding-bottom:50px;
+	justify-content:space-evenly;
+}
+main {
+	background-image:url("фон сабнатика.png");
+	background-size:100%;
+	padding-top:67px;
+	padding-left:150px;
+	padding-right:150px;
+	
+}
+footer {
+	background-color:black;
+	color:grey;
+	padding: 50px;
+}
+footer a{
+	color:grey;
+}
+h1 {
+	text-align: center;
+	font-size:99px;
+}
+header a {
+	color: white;
+	text-decoration: none;
+	background-color:#27A49E;
+	padding:10px;
+	margin:10px;
+	border-radius: 20px;
+	border:1px solid white;
+	height:20px;
+}
+h2 {
+	text-align: center;
+}
+.task{
+	background-color:#25716D;
+	border-radius: 20px;
+	width: 67%;
+	padding:50px;
+	border:1px solid white;
+	margin-left:auto;
+	margin-right: auto;
+}
+.people{
+	background-color:#25716D;
+	border-radius: 20px;
+	width: 67%;
+	padding:50px;
+	border:1px solid white;
+	margin-left:auto;
+	margin-right: auto;
+}
+.world div p{
+	background-color:#25716D;
+	border-radius: 20px;
+	padding:20px;
+	border:1px solid white;
+	width: 25%;
+}
+.swim img{
+	border-radius:20px;
+}
+.cover{
+	background-image:url("https://avatars.mds.yandex.net/get-mpic/4544006/2a00000197ab8db3e3a908f9acde43587a2b/orig");
+	height:680px;
+	background-size:100%;
+	
+}
+.cover p {
+	background-color:#25716D;
+	width: 120px;
+	text-align: center;
+	padding:30px;
+	border-radius:20px;
+	border:1px solid white;
+	height:100px;
+	
+}
+.cover h2 {
+	padding-top:200px;
+}
+.cover a {
+	color: white;
+	text-decoration: none;
+	background-color:#27A49E;
+	padding:10px;
+	margin:10px;
+	border-radius: 20px;
+	border:1px solid white;
+	width:200px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+.cover div {
+	display:flex;
+	justify-content:space-evenly;
+	margin-top:200px;
+}
+.info div {
+	display:flex;
+}
+.world div {
+	display:flex;
+	justify-content:space-around;
+}
+.plot div {
+	display:flex;
+	justify-content:space-around;
+	margin-bottom:100px;
+}
+.plot article {
+	width:450px;
+}
+.glayder {
+	display:flex;
+}
+.motylek {
+	display:flex;
+	justify-content:space-evenly;
+}
+.motylek div {
+	width:40%;
+}
+.motylek img {
+	height:350px;
+	width: 40% 
+}
+.ieheprociklop {
+	display:flex;
+}
+.ciclop_3 {
+	display:flex;
+}
+.craf {
+	display:flex;
+}
+.sychestva {
+	display:flex;
+}
+.opasn {
+	display:flex;
+}
+.swim {
+	display:flex;
+	justify-content:space-evenly;
+}
+.swim div {
+	width:35%;
+}
+.swim article {
+	display:flex;
+	justify-content:space-evenly;
+	width:600px;
+}
+.swim article p {
+	width: 200px;
+}
+.crabic {
+	display:flex;
+	justify-content:space-evenly;
+}
+.crabic img {
+	height: 500px;
+	width: 800px;
+}
+.crabic div {
+	width:450px;
+	background-color:#008B8B;
+	margin-bottom:50px;
+	padding:15px;
+}
+.ciclop {
+	display:flex;
+	justify-content:space-evenly;
+}
+.ciclop div {
+	background-color:#008B8B;
+	width:450px;
+}
+.ciclop img {
+	height: 500px;
+	width: 800px;
+}
+.sychestva {
+	margin-bottom:50px;
+}
+.strelka_vverh {
+	position: fixed;
+	right:1%;
+	bottom:1px;
+}
